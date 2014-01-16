@@ -81,7 +81,7 @@
   },
   {
    "criteria": {
-    "selector": "a[href*=\"slightlyviral.com\"]"
+    "selector": "a[href*=\"huffpost.com\"]"
    },
    "actions": {
     "move_to_tab": "junk"
@@ -99,6 +99,24 @@
   },
   {
    "criteria": {
+    "selector": "a[href*=\"huffingtonpost.co.uk\"]"
+   },
+   "actions": {
+    "move_to_tab": "junk"
+   },
+   "disabled": false
+  },
+  {
+   "criteria": {
+    "selector": "a[href*=\"slightlyviral.com\"]"
+   },
+   "actions": {
+    "move_to_tab": "junk"
+   },
+   "disabled": false
+  },
+  {
+   "criteria": {
     "regex": "/(huff).to/"
    },
    "actions": {
@@ -108,7 +126,16 @@
   },
   {
    "criteria": {
-    "regex": "/(slightlyviral|theblaze|huffingtonpost|buzzfeed|9gag|viralnova|rightthisminute|upworthy|quickmeme).com/"
+    "regex": "/(huffingtonpost).co.uk/"
+   },
+   "actions": {
+    "move_to_tab": "junk"
+   },
+   "disabled": false
+  },
+  {
+   "criteria": {
+    "regex": "/(slightlyviral|theblaze|huffingtonpost|huffpost|buzzfeed|9gag|viralnova|rightthisminute|upworthy|quickmeme).com/"
    },
    "actions": {
     "move_to_tab": "junk"
