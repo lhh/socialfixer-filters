@@ -5,10 +5,10 @@ Filters/options for SocialFixer that block sites that annoy me.
 
 I don't like sites that don't offer content of their own and,
 instead, try to craft headlines that appeal only to curiosity
-while providing no content of their own apart from some witty
-headline.
+while providing little to no content of their own apart from
+some witty headline.
 
-You've seen them:
+You've probably seen them them in your Facebook feed:
 
   "Pet gets run over by train!  You'll never believe what happened next!"
    (and, predictably, it shows the poor owners fraught with grief)
