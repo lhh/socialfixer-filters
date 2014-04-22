@@ -135,7 +135,7 @@
   },
   {
    "criteria": {
-    "regex": "/(slightlyviral|theblaze|huffingtonpost|huffpost|buzzfeed|9gag|viralnova|rightthisminute|upworthy|quickmeme).com/"
+    "regex": "/(slightlyviral|theblaze|huffingtonpost|huffpost|buzzfeed|9gag|viralnova|rightthisminute|upworthy|quickmeme|xposethereal|fstoppers).com/"
    },
    "actions": {
     "move_to_tab": "junk"
